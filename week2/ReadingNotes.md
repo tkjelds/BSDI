@@ -55,3 +55,11 @@ Elements that may provide value to a customer
     Riks reduction
     Accessibility (Provide access to products)
     Convenience/Usability (Apple)
+
+## Participatory design: Principles and practices
+
+ting
+
+## Interviewet: Samtalen som forskningsmetode. In Kvalitative metoder
+
+ting
