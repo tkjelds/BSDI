@@ -56,9 +56,15 @@ Elements that may provide value to a customer
     Accessibility (Provide access to products)
     Convenience/Usability (Apple)
 
-## Participatory design: Principles and practices
+## Ethnographic field methods and their relation to design
 
-ting
+Relationship betewen developing a descriptive understanding of human behavior and designing artifacts which support the arctivities described.
+
+The ethnographic approach.
+
+    natives point of view
+    holim 
+    natural settings.
 
 ## Interviewet: Samtalen som forskningsmetode. In Kvalitative metoder
 
